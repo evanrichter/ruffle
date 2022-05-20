@@ -1,0 +1,5 @@
+project: ruffle
+target: swf
+
+cmds:
+  - cmd: /swf
